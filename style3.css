@@ -1,0 +1,27 @@
+body{
+ background-color: black;
+}
+
+h3{
+  font-size: 390%;
+    text-align: center;
+    border-color: red;
+    border-style: dashed;
+    border-width: 5px;
+    background-color: yellow;
+}
+
+h4 {
+    font-size: 250%;
+    color:white;
+}
+
+h5 {
+ font-size: 200%;
+ text-align: center;
+ color: red;
+}
+.p2 {
+    text-align: center;
+}
+
